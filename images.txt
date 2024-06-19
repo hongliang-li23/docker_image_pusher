@@ -7,5 +7,5 @@
 #--platform=linux/arm64 acryldata/datahub-mysql-setup:head
 #--platform=linux/arm64 acryldata/datahub-kafka-setup:head
 #--platform=linux/arm64 acryldata/datahub-upgrade:head
-#--platform=linux/arm64 confluentinc/cp-schema-registry:7.4.0
---platform=linux/arm64 acryldata/datahub-gms:head
+--platform=linux/arm64 confluentinc/cp-schema-registry:7.4.0
+#--platform=linux/arm64 acryldata/datahub-gms:head
