@@ -6,4 +6,5 @@
 ##--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 acryldata/datahub-mysql-setup:head
 #--platform=linux/arm64 acryldata/datahub-kafka-setup:head
+#--platform=linux/arm64 acryldata/datahub-upgrade:head
 --platform=linux/arm64 acryldata/datahub-upgrade:head
