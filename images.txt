@@ -10,4 +10,5 @@
 #--platform=linux/arm64 confluentinc/cp-schema-registry:7.4.0
 #--platform=linux/arm64 acryldata/datahub-gms:head
 #--platform=linux/arm64 acryldata/datahub-frontend-react:head
---platform=linux/arm64 acryldata/datahub-actions:head
+#--platform=linux/arm64 acryldata/datahub-actions:head
+--platform=linux/arm64 apache/airflow:latest-python3.8
