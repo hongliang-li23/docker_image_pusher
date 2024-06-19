@@ -12,4 +12,4 @@
 #--platform=linux/arm64 acryldata/datahub-frontend-react:head
 #--platform=linux/arm64 acryldata/datahub-actions:head
 #--platform=linux/arm64 apache/airflow:latest-python3.8
-arm64v8/postgres:12
+--platform=linux/arm64 postgres:12
