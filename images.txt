@@ -17,4 +17,5 @@
 #--platform=linux/arm64 redis:latest
 #--platform=linux/arm64 apache/nifi:latest
 #--platform=linux/arm64 mysql:8.4.0
---platform=linux/arm64 minio/minio:latest
+#--platform=linux/arm64 minio/minio:latest
+--platform=linux/arm64 centos:centos8
