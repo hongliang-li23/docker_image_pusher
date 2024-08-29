@@ -22,4 +22,5 @@
 #--platform=linux/arm64 centos:centos7
 #--platform=linux/arm64  sdelquin/webspoon:arm64
 #--platform=linux/amd64 nginx:latest
---platform=linux/amd64 apache/airflow:latest-python3.8
+#--platform=linux/amd64 apache/airflow:latest-python3.8
+--platform=linux/amd64 postgres:12
