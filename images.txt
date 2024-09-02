@@ -25,5 +25,6 @@
 #--platform=linux/amd64 apache/airflow:latest-python3.8
 #--platform=linux/amd64 postgres:12
 #--platform=linux/amd64 redis:7.2-bookworm
---platform=linux/amd64 apache/dolphinscheduler-standalone-server:3.1.9
+#--platform=linux/amd64 apache/dolphinscheduler-standalone-server:3.1.9
+--platform=linux/amd64 docker pull bitnami/zookeeper:3.9.2
 
