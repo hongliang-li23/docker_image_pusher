@@ -28,5 +28,6 @@
 #--platform=linux/amd64 apache/dolphinscheduler-standalone-server:3.2.2
 #--platform=linux/amd64 bitnami/zookeeper:3.9.2
 #--platform=linux/amd64 bitnami/postgresql:15.8.0
---platform=linux/amd64 apache/dolphinscheduler-tools:3.2.2
+#--platform=linux/amd64 apache/dolphinscheduler-tools:3.2.2
+--platform=linux/amd64 apache/dolphinscheduler-api:3.2.2
 
