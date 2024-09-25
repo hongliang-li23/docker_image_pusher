@@ -33,5 +33,5 @@
 #--platform=linux/amd64 apache/dolphinscheduler-alert-server:3.2.2
 #--platform=linux/amd64 apache/dolphinscheduler-master:3.2.2
 #--platform=linux/amd64 apache/dolphinscheduler-worker:3.2.2
-
---platform=linux/arm64 apache/dolphinscheduler-standalone-server:3.2.2
+#--platform=linux/arm64 apache/dolphinscheduler-standalone-server:3.2.2
+--platform=linux/arm64 apache/airflow:2.10.0-python3.8
