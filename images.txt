@@ -46,4 +46,4 @@
 #--platform=linux/arm64 apache/dolphinscheduler-alert-server:3.2.2
 #--platform=linux/arm64 apache/dolphinscheduler-master:3.2.2
 #--platform=linux/arm64 apache/dolphinscheduler-worker:3.2.2
---platform=linux/arm64 bitnami/zookeeper:3.8.4-debian-12-r14
+--platform=linux/arm64 bitnami/zookeeper:3.8.3
