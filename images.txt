@@ -38,4 +38,4 @@
 #--platform=linux/amd64 mysql:8.0.36
 #--platform=linux/arm64 mysql:8.0.36
 #--platform=linux/amd64 mysql:8.0.33
---platform=linux/amd64 bitnami/zookeeper:3.8.4
+#--platform=linux/amd64 bitnami/zookeeper:3.8.4
