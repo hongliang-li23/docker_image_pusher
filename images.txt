@@ -47,4 +47,4 @@
 #--platform=linux/arm64 apache/dolphinscheduler-master:3.2.2
 #--platform=linux/arm64 apache/dolphinscheduler-worker:3.2.2
 #--platform=linux/arm64 bitnami/zookeeper:3.8.3
---platform=linux/amd64 docker pull apache/hop:2.11.0-SNAPSHOT
+--platform=linux/amd64 apache/hop:2.11.0-SNAPSHOT
