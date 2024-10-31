@@ -50,4 +50,5 @@
 #--platform=linux/amd64 apache/hop:2.11.0-SNAPSHOT
 #--platform=linux/arm64 biarms/mysql:5.7.30
 #--platform=linux/arm64/v8 biarms/mysql:5.7.33-beta-circleci
- --platform=linux/arm64/v8 mysql:8.0.33
+#--platform=linux/arm64/v8 mysql:8.0.33
+--platform=linux/amd64 biarms/mysql:5.7.33-beta-circleci
